@@ -1,3 +1,8 @@
 flet
 duckdb
 pandas
+musical_archive-datareader
+flet-datatable2
+kaleido
+plotly-express
+flet-charts
